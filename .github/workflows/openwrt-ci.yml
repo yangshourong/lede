@@ -5,8 +5,7 @@
 #
 # Copyright (C) 2020 KFERMercer
 #
-# Copyright (C) 2020 KFERMercer
-# test.ysr  
+
 name: OpenWrt-CI
 
 on:
